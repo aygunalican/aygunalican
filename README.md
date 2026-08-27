@@ -1,125 +1,120 @@
 <div align="center">
 
-<!-- 
-  BANNER: replace the src link below with your own image URL if you want a custom banner
-  (upload an image to the repo, then use: https://raw.githubusercontent.com/aygunalican/aygunalican/main/banner.png)
--->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Hi,%20I'm%20Aygun&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=56&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1d2021,50:282828,100:1d2021&height=180&section=header&text=AYGUN%20ALICAN&fontSize=36&fontColor=d79921&fontAlignY=45&desc=front-end%20developer&descAlignY=68&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+with+React+%2B+TypeScript+%2B+Next.js;Turning+ideas+into+clean+interfaces;Currently+leveling+up+backend+skills" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=aygunalican&label=Profile+Views&color=7c3aed&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=D79921&center=true&vCenter=true&width=560&lines=react+%2B+typescript+%2B+next.js;building+clean%2C+working+interfaces;learning+backend+fundamentals" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=3" />
+<div align="center">
 
-## About Me
+●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;<b>about.txt</b>
 
-Front-End Developer and 4th-year Computer Engineering student at **ASOIU** (Azerbaijan State Oil and Industry University), graduating in 2026, studied in an English-taught collaborative program with Siegen University.
+</div>
 
-```txt
-const aygun = {
-  role: "Front-End Development Intern",
-  stack: ["React", "TypeScript", "Next.js", "JavaScript"],
-  currentlyLearning: "Backend fundamentals",
-  goal: "Study abroad, bring knowledge back to Azerbaijan",
-  motto: "Turning messy ideas into clean, working interfaces"
-};
+```
+$ cat about.txt
+
+front-end developer / final-year computer engineering student
+studying at ASOIU, joint program with Siegen University
+graduating 2026
+
+currently working with react and typescript
+picking up backend fundamentals on the side
+goal: study abroad, bring the experience back home
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=3" />
+<br/>
 
-## Tech Stack
+<div align="center">
 
-**Frontend**
+●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;<b>stack.txt</b>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-0f0c29?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-0f0c29?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Next.js-0f0c29?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0f0c29?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-0f0c29?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0f0c29?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0f0c29?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Bootstrap-0f0c29?style=flat-square&logo=bootstrap&logoColor=7952B3" />
-  <img src="https://img.shields.io/badge/Redux-0f0c29?style=flat-square&logo=redux&logoColor=764ABC" />
-</p>
+</div>
 
-**Tools & Data**
+```
+$ cat stack.txt
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0f0c29?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-0f0c29?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=mysql&logoColor=4479A1" />
-</p>
+frontend    react · typescript · next.js · javascript · tailwind · redux
+tools       git · supabase · python · sql
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=3" />
+<br/>
 
-## GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aygunalican&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7c3aed&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aygunalican&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
-</p>
+●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;<b>stats</b>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aygunalican&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=A78BFA" height="165"/>
-</p>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=3" />
+<img src="https://github-readme-stats.vercel.app/api?username=aygunalican&show_icons=true&theme=gruvbox_dark&hide_border=true&bg_color=1D2021&title_color=D79921&icon_color=D79921&text_color=EBDBB2" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aygunalican&layout=compact&theme=gruvbox_dark&hide_border=true&bg_color=1D2021&title_color=D79921&text_color=EBDBB2" height="165"/>
 
-## Featured Projects
+<br/>
 
-<p align="center">
-  <a href="https://github.com/aygunalican/moviesite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=moviesite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-  </a>
-  <a href="https://github.com/aygunalican/products-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=products-react&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com?user=aygunalican&theme=gruvbox-dark&hide_border=true&background=1D2021&ring=D79921&fire=D79921&currStreakLabel=D79921" height="165"/>
 
-<p align="center">
-  <a href="https://github.com/aygunalican/MyPortfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=MyPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-  </a>
-  <a href="https://github.com/aygunalican/github-finder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=github-finder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-  </a>
-</p>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=3" />
+<br/>
 
-<!--
-  BEYOND CODE: this is a good spot for your own photos (hobbies, interests, etc).
-  Replace the placeholder image links below with links to your own uploaded images.
--->
-## Beyond Code
+<div align="center">
 
-<p align="center">
-  <img src="https://via.placeholder.com/150/0f0c29/A78BFA?text=Photo+1" width="150" />
-  <img src="https://via.placeholder.com/150/0f0c29/A78BFA?text=Photo+2" width="150" />
-  <img src="https://via.placeholder.com/150/0f0c29/A78BFA?text=Photo+3" width="150" />
-</p>
+●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;<b>ls projects/</b>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f0c29&height=3" />
+<br/><br/>
 
-## Let's Connect
+<a href="https://github.com/aygunalican/moviesite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=moviesite&theme=gruvbox_dark&hide_border=true&bg_color=1D2021&title_color=D79921&text_color=EBDBB2" />
+</a>
+<a href="https://github.com/aygunalican/products-react">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=products-react&theme=gruvbox_dark&hide_border=true&bg_color=1D2021&title_color=D79921&text_color=EBDBB2" />
+</a>
 
-<p align="center">
-  <a href="mailto:alicanovaaygun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-  <a href="https://github.com/aygunalican">
-    <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=100&section=footer" />
+<a href="https://github.com/aygunalican/MyPortfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=MyPortfolio&theme=gruvbox_dark&hide_border=true&bg_color=1D2021&title_color=D79921&text_color=EBDBB2" />
+</a>
+<a href="https://github.com/aygunalican/github-finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=github-finder&theme=gruvbox_dark&hide_border=true&bg_color=1D2021&title_color=D79921&text_color=EBDBB2" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;<b>ls photos/</b>
+
+<br/><br/>
+
+<img src="assets/photo1.jpg" width="150" />
+<img src="assets/photo2.jpg" width="150" />
+<img src="assets/photo3.jpg" width="150" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;<b>contact.txt</b>
+
+<br/><br/>
+
+<a href="mailto:alicanovaaygun@gmail.com">
+  <img src="https://img.shields.io/badge/mail-282828?style=flat-square&logo=gmail&logoColor=D79921" />
+</a>
+<a href="https://github.com/aygunalican">
+  <img src="https://img.shields.io/badge/github-282828?style=flat-square&logo=github&logoColor=D79921" />
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1d2021,50:282828,100:1d2021&height=90&section=footer" />
