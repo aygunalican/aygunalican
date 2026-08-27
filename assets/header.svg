@@ -1,0 +1,15 @@
+<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+      .title { font-family: 'VT323', monospace; font-size: 70px; fill: #00E5FF; }
+      .subtitle { font-family: 'VT323', monospace; font-size: 26px; fill: #B9F5FF; }
+    </style>
+    <filter id="darken">
+      <feColorMatrix type="matrix" values="0.35 0 0 0 0  0 0.35 0 0 0  0 0 0.35 0 0  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <image href="https://i.pinimg.com/originals/16/12/10/1612109ff54f3126edf7c41800468822.gif" x="0" y="0" width="900" height="220" preserveAspectRatio="xMidYMid slice" filter="url(#darken)"/>
+  <text x="50%" y="47%" text-anchor="middle" class="title">AYGUN ALICAN</text>
+  <text x="50%" y="68%" text-anchor="middle" class="subtitle">enthusiast developer</text>
+</svg>
