@@ -122,4 +122,4 @@ const aygun = {
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=100&section=footer" /></sub> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=100&section=footer" />
