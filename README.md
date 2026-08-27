@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**aygunalican/aygunalican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aygun+%F0%9F%91%8B;Front-End+Developer;React+%7C+TypeScript+%7C+Next.js;Turning+ideas+into+interactive+UIs" alt="Typing SVG" /> </div> <p align="center"> <a href="https://github.com/aygunalican"> <img src="https://komarev.com/ghpvc/?username=aygunalican&label=Profile%20views&color=7C3AED&style=flat" alt="profile views" /> </a> </p>
+👩‍💻 About Me
+🎓 4th-year Computer Engineering student (ASOIU / Siegen University collaborative program), graduating 2026
+💻 Front-End Developer Intern, building real products with React, TypeScript, and Next.js
+🌱 Currently deepening my skills in backend fundamentals and responsive, component-based UI design
+✈️ Interested in studying abroad and bringing new knowledge back to Azerbaijan
+⚡ Fun fact: I like turning messy ideas into clean, working interfaces
+🛠️ Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aygunalican&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aygunalican&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=aygunalican&theme=merko&hide_border=true" alt="GitHub Streak" height="165"/> </p>
+🚀 Featured Projects
+<p align="center"> <a href="https://github.com/aygunalican/moviesite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=moviesite&theme=merko&hide_border=true" /> </a> <a href="https://github.com/aygunalican/products-react"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=products-react&theme=merko&hide_border=true" /> </a> </p> <p align="center"> <a href="https://github.com/aygunalican/MyPortfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=MyPortfolio&theme=merko&hide_border=true" /> </a> <a href="https://github.com/aygunalican/github-finder"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aygunalican&repo=github-finder&theme=merko&hide_border=true" /> </a> </p>
+📫 Connect With Me
+<p align="center"> <a href="mailto:alicanovaaygun@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/aygunalican"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <div align="center"> <sub>Thanks for stopping by! ⭐ this space if you'd like to see more.</sub> </div>
