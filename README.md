@@ -20,6 +20,12 @@
 <br/>
 
 <div align="center">
+<img src="assets/scan.svg" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&width=120"/>
 <br/><b>ABOUT</b><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&width=120"/>
