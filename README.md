@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" />
+<table width="100%">
+<tr>
+<td align="center" style="background:#000000;" width="100%">
+
+<img src="https://i.pinimg.com/originals/16/12/10/1612109ff54f3126edf7c41800468822.gif" width="100%" />
+
+<h1><b><font color="#00E5FF">AYGUN ALICAN</font></b></h1>
+<p><font color="#B9F5FF">enthusiast developer</font></p>
+
+</td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3200&pause=1300&color=00E5FF&center=true&vCenter=true&width=520&lines=just+an+enthusiast+developer;always+tinkering+with+something+new;learning+by+building" />
 
