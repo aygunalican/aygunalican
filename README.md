@@ -2,16 +2,13 @@
 
 ```
 $ whoami --scan
-
 [ INITIALIZING PROFILE SCAN... ]
 [■■■■■■■■■■■■■■■■■■■■] 100%
-
 > NAME........: Aygun Alijanova
 > ROLE........: Front-End Developer
 > STATUS......: Learning Back-End | Building Full-Stack Skills
 > LOCATION....: Baku, Azerbaijan
 > EDUCATION...: Computer Engineering, ADNSU (2026)
-
 [ SCAN COMPLETE ]
 ```
 
@@ -34,8 +31,8 @@ $ cat tech_stack.txt
 $ fetch github_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aygunalican&show_icons=true&theme=matrix&hide_border=true" alt="stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aygunalican&theme=matrix&hide_border=true" alt="streak" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=aygunalican&show_icons=true&theme=radical&hide_border=true" alt="stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aygunalican&theme=radical&hide_border=true" alt="streak" height="165" />
 </p>
 
 ---
