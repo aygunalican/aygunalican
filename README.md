@@ -1,19 +1,19 @@
-kodun umumi halini ver tam
-
 <div align="center">
+
+```
 $ whoami --scan
 
 [ INITIALIZING PROFILE SCAN... ]
 [■■■■■■■■■■■■■■■■■■■■] 100%
 
-NAME........: Aygun Alijanova
-ROLE........: Front-End Developer
-STATUS......: Learning Back-End | Building Full-Stack Skills
-LOCATION....: Baku, Azerbaijan
-EDUCATION...: Computer Engineering, ADNSU (2026)
+> NAME........: Aygun Alijanova
+> ROLE........: Front-End Developer
+> STATUS......: Learning Back-End | Building Full-Stack Skills
+> LOCATION....: Baku, Azerbaijan
+> EDUCATION...: Computer Engineering, ADNSU (2026)
 
 [ SCAN COMPLETE ]
-
+```
 
 </div>
 
@@ -34,8 +34,8 @@ $ cat tech_stack.txt
 $ fetch github_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true" alt="stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true" alt="streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aygunalican&show_icons=true&theme=matrix&hide_border=true" alt="stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aygunalican&theme=matrix&hide_border=true" alt="streak" height="165" />
 </p>
 
 ---
