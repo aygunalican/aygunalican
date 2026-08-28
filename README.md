@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" alt="terminal scan" src="https://github.com/user-attachments/assets/1ed2a43f-e461-49fe-aded-9c631c6b2166" />
+  <img width="700" alt="terminal scan" src="https://github.com/user-attachments/assets/919a485e-d42f-4947-979f-8faf17cea539" />
 </p>
 
 <p align="center">
